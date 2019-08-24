@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Hostel
+comment0.text=\n\n\ @author\ Alena\ Porfoeva\n\ @version\ 001\n
+comment1.params=HostelName
+comment1.target=Hostel(java.lang.String)
+comment2.params=newRoom
+comment2.target=void\ addRoom(Room)
+numComments=3

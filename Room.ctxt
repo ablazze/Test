@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Room
+comment0.text=\n\ Write\ a\ description\ of\ class\ Room\ here.\n\n\ @author\ Alena\ Porfoeva\n\ @version\ 001\n
+comment1.params=Roomname\ maxNumberOfGuests
+comment1.target=Room(java.lang.String,\ int)
+comment1.text=\n\ Create\ a\ HostelRoom\ with\ limited\ number\ of\ enrolments\n
+comment2.params=
+comment2.target=int\ getNumberOfGuests()
+comment2.text=\n\ Return\ the\ number\ of\ guests\ currently\ enrolled.\n
+comment3.params=newGuest
+comment3.target=void\ enrollGuest(Guest)
+comment3.text=\n\ Add\ a\ guest\ to\ this\ HostelRooms.\n
+comment4.params=
+comment4.target=boolean\ IsFree()
+comment5.params=
+comment5.target=void\ printList()
+comment5.text=\n\ Print\ a\ list\ of\ guests\n
+comment6.params=newGuest
+comment6.target=void\ FullTheWholeRoom(Guest)
+numComments=7

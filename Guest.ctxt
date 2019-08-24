@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Guest
+comment0.text=\n\ Write\ a\ description\ of\ class\ Guest\ here.\n\n\ @author\ Alena\ Porfoeva\n\ @version\ 001\n
+comment1.params=fullName\ ArrivalDay\ ArrivalMonth\ ArrivalYear\ HowManyDays
+comment1.target=Guest(java.lang.String,\ int,\ int,\ int,\ int)
+comment1.text=\n\ Create\ a\ new\ guest\ with\ a\ given\ name.\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\n\ Return\ the\ full\ name\ of\ this\ guest.\n
+comment3.params=replacementName
+comment3.target=void\ changeName(java.lang.String)
+comment3.text=\n\ Set\ a\ new\ name\ for\ this\ guest.\n
+comment4.params=
+comment4.target=void\ print()
+comment4.text=\n\ Print\ the\ guest's\ name\ to\ the\ output\ terminal.\n
+numComments=5
